@@ -2,7 +2,7 @@
 Data Science、NLP、Deep learning…
 
 作者：
-* 韩旭 xuhan@smail.nju.edu.cn
+* 韩旭 me.hanxu@gmail.com
 
 很多东西没有系统整理，之后想到的话会陆续补充，希望对大家有帮助。
 
