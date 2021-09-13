@@ -1,13 +1,16 @@
-# Data-Science
+# Data Scientist Interest Group
 Data Science、NLP、Deep learning…
 
 作者：
 * 韩旭 me.hanxu@gmail.com
 
-很多东西没有系统整理，之后想到的话会陆续补充，希望对大家有帮助。
+- 2021/9/13
+  - 待加入Spark、Hive等相关内容
 
-最后更新：2020/11/11
 
+
+- 2020/11/11
+  - 第一版
 一、自然语言处理与深度学习
 
 * Zewei Chu：
